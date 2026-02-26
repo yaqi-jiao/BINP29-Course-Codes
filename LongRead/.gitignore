@@ -1,0 +1,17 @@
+# ignore everything by default
+*
+
+# keep the gitignore itself
+!.gitignore
+
+# keep README files
+!README
+!README.*
+!readme
+!readme.*
+
+# keep scripts directory and its contents
+!.gitkeep
+
+# keep directory structure
+!*/
